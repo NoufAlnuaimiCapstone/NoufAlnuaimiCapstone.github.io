@@ -1,10 +1,11 @@
 ---
-title: "Post: Notice"
+title: "Week 2"
+date: 2023-09-11
 categories:
   - Blog
 tags:
-  - Post Formats
-  - notice
+  - Weekly
+  - update
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
