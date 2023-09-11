@@ -13,9 +13,9 @@ tags:
 
 ##### My interests
 ------
-<font size="2"> - Education, social issues, and religion and/or culture. </font>  
-<font size="2"> - Immersive experiences in relation to the history of the gulf.</font>  
-<font size="2"> - Interactive Installations with elements native to the gulf.</font>  
+ - Education, social issues, and religion and/or culture. 
+ - Immersive experiences in relation to the history of the gulf.
+ - Interactive Installations with elements native to the gulf. 
 
 ##### Rough Idea
 ------
