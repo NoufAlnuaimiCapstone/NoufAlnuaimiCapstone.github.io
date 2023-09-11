@@ -23,6 +23,8 @@ tags:
 
 ##### Artists I'm looking into for inspiration???
 ------
-  - Rawdha Al Ketbi 
-  - Krzysztof Wodiczko
-  - Shahad Alazzaz
+  - Rawdha Al Ketbi (cultural elements)
+  - Krzysztof Wodiczko (projections)
+  - Shahad Alazzaz (cultural installations)
+
+  
