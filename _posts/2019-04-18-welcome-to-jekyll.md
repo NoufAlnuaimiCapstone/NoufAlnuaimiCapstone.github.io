@@ -8,8 +8,8 @@ tags:
   - update
 ---
 
-# Week 1
-## Prototype 1
+## Week 1
+### Prototype 1
 
-Rough Idea
+#### Rough Idea
 ------
