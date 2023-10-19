@@ -9,3 +9,5 @@ main:
     url: /about/
   # - title: "Weekly Updates"
   #   url: /weeklyupdates/
+  - title: "Midterm"
+    url: /midterm/
