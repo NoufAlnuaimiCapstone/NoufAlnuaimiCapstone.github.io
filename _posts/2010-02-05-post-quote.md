@@ -14,7 +14,8 @@ tags:
 
      The first prototype is the basic one, where we'd project everything onto it. We started with this one because it's the simpler option. We began by cutting out the various pieces and then assembling them to create a 3D structure. At the start, it looked very geometric and did not resemble a tree trunk at all, luckily Aalya got creative and started carving the sides to give it that real palm tree trunk vibe. This artistic choice not only made the prototype less abstract but also added a visual and conceptual appeal, which got us pretty excited about it as a potential choice. However, we're still missing the palm tree leaves part for now.
 
-![](prototype1.jpeg)
+![](/assets/images/prototype1.jpeg)
+"/assets/images/prototype1.jpeg"
 
 
 ## Second prototype:
