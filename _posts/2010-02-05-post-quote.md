@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-# Prototypes 
+# (actual) Prototypes 
    After our one-on-one chat with the instructor, Aalya and I realized how crucial it is to zero in on the specific element we want to work on. We needed to figure out if we should keep our idea as is or make some changes. Initially, we thought it would be a good idea to work on the projections because they’re digital and thus less of a hassle to tweak. However, we ultimately decided to focus on prototyping the palm tree trunk. We settled on the palm tree trunk because we believe it's the element that will grab the most attention. Plus, we needed to see if it's visually appealing and easy to understand, so we wanted to create a prototype for it. Once Aalya and I settled on what we would like to focus and build on, we decided to start prototyping two different versions. One version will stick to our idea of using the tree trunk as the physical element, with various materials symbolizing different stages of an Emirati girl's life journey. The other prototype will be a plain base that can have everything projected onto it.
 
 
