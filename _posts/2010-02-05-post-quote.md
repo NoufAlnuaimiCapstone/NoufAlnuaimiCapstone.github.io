@@ -27,6 +27,8 @@ tags:
 
    At the moment, we're thinking about making the second prototype look better. Honestly, as it stands, it's a bit too abstract for my taste. We're toying with the idea of using materials and fabrics in neutral or brown tones to make it look more like a palm tree. I feel like giving it more texture could also make it more appealing to look at and also interact with. 
 
+
+
 # AMA the art world
 
 ### A question: What is interactivity and how much is needed for it to be considered interactive art?
