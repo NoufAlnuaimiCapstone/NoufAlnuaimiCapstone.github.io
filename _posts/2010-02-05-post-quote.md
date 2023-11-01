@@ -28,3 +28,15 @@ tags:
    At the moment, we're thinking about making the second prototype look better. Honestly, as it stands, it's a bit too abstract for my taste. We're toying with the idea of using materials and fabrics in neutral or brown tones to make it look more like a palm tree. I feel like giving it more texture could also make it more appealing to look at and also interact with. 
 
 # AMA the art world
+
+### A question: What is interactivity and how much is needed for it to be considered interactive art?
+
+   Throughout this seminar, I have been debating the idea and classification of “interactive” art; what makes art interactive? How is interactive art classified? Does it always need an input and output to be interactive? 
+   As I've observed the diverse capstone projects in this class, it has prompted me to consider whether a work of art must incorporate multiple interactive elements to be deemed interactive, or if a single, straightforward interactive feature suffices. Furthermore, I've been questioning whether these interactive aspects are limited to the digital realm or if analog forms of interactivity can also be classified as art.
+It's notable that the majority of works identified as interactive art, whether encountered online or within museum exhibitions, often fall into the categories of digital or mechanical. However, I'm curious if there's room for analog forms of interactive art within this classification. Additionally, when it comes to classifying art, I've been contemplating whether these classifications are inherently subjective, reflecting personal interpretations, or if there exist established criteria that delineate the parameters for such categorizations.
+
+
+### A question: How do you decide on the abstractness or clarity of a niche project when presenting it to a diverse audience?
+
+   Another question that has been occupying my thoughts this semester pertains to the degree of abstractness or clarity in a project. While I fully appreciate the importance of clarity when the objective is to convey a precise message, I also recognize the value of abstraction, even in its subtlest forms, which can allow the audience to craft their own interpretations. Consequently, I find myself wondering where one should delineate the boundary between "this is excessively abstract" and "this is excessively clear and specific." Additionally, I'm curious whether either extreme can be definitively categorized as either advantageous or disadvantageous.
+
