@@ -13,4 +13,4 @@ tags:
 
 
 ## Timeline
-![](/assets/images/timeline.jpeg)
+![](/assets/images/timeline.jpg)
