@@ -16,5 +16,13 @@ tags:
     After thorough contemplation, I settled on the idea of a physical centerpiece – a palm tree trunk, with its leaves serving as projections. This concept resonates with various aspects, symbolizing the Emirati setting and the journey of growth. To add an extra layer of fun and intrigue, we decided to create the different segments of the palm tree trunk from different Emirati materials and fabrics, each representing distinct stages of an Emirati girl's life journey!
    I believe that this is the idea we will settle and build on because it is very cool and speaks to both Aalya and I well!
 
+### Pieces from the three artists
+![](/assets/images/Lulwah2.jpeg)
+![](/assets/images/Manal1.jpg)
+![](/assets/images/Olafur1.jpeg)
 
 ### Project Vision
+![](/assets/images/prototype1.jpeg)
+
+
+
