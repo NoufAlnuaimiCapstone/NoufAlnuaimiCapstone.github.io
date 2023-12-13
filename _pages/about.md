@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Project"
+title: "The Project"
 ---
 
 # A Walk Through Emirati Girlhood 
