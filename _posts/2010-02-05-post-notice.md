@@ -18,7 +18,7 @@ tags:
 
 ### Pieces from the three artists
 ![](/assets/images/Lulwah2.jpeg)
-*By Lulwah Al-Homoud*
+*By Lulwah Al-Homoud* 
 
 ![](/assets/images/Manal1.jpg)
 *By Manal AlDowayan*
