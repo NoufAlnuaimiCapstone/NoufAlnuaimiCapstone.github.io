@@ -16,4 +16,4 @@ tags:
 
 ![](/assets/images/timeline.jpg)
 
-<img src="timeline.jpg">
+<img src="/assets/images/timeline.jpg">
