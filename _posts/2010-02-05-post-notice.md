@@ -17,7 +17,7 @@ tags:
    I believe that this is the idea we will settle and build on because it is very cool and speaks to both Aalya and I well!
 
 ### Pieces from the three artists
-![](/assets/images/Lulwah2.jpeg width="200" height="100")
+![](/assets/images/Lulwah2.jpeg)
 *By Lulwah Al-Homoud*
 
 ![](/assets/images/Manal1.jpg)
