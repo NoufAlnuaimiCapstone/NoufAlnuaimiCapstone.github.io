@@ -22,7 +22,6 @@ tags:
 ![](/assets/images/Olafur1.jpeg)
 
 ### Project Vision
-![](/assets/images/prototype1.jpeg)
-
-
+![](/assets/images/vision1.jpg)
+![](/assets/images/vision2.jpg)
 
