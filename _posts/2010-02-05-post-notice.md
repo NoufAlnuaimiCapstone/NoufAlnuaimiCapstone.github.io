@@ -18,8 +18,13 @@ tags:
 
 ### Pieces from the three artists
 ![](/assets/images/Lulwah2.jpeg width="200" height="100")
+*By Lulwah Al-Homoud*
+
 ![](/assets/images/Manal1.jpg)
+*By Manal AlDowayan*
+
 ![](/assets/images/Olafur1.jpeg)
+*By Olafur Eliasson*
 
 ### Project Vision
 ![](/assets/images/vision1.jpg)
