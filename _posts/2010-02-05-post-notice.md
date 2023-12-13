@@ -28,5 +28,6 @@ tags:
 
 ### Project Vision
 ![](/assets/images/vision1.jpg)
+
 ![](/assets/images/vision2.jpg)
 
