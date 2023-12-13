@@ -15,5 +15,3 @@ tags:
 ## Timeline
 
 ![](/assets/images/timeline1.jpg)
-
-<img src="/assets/images/timeline.jpg">
