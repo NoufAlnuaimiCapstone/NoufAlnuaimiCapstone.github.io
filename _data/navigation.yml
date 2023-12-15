@@ -11,5 +11,9 @@ main:
   #   url: /weeklyupdates/
   - title: "Midterm Paper"
     url: /midterm/
+
+  - title: "Final Paper"
+    url: /final/
+
   - title: "Artist Bio"
     url: /artistbio/
