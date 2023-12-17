@@ -1,6 +1,6 @@
 ---
 title: "Elevator Pitch"
-date: 2023-11-06
+date: 2023-11-05
 categories:
   - Blog
 tags:
