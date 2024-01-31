@@ -1,6 +1,6 @@
 ---
-title: "Week 4"
-date: 2023-09-25
+title: "Week 2"
+date: 2024-12-31
 categories:
   - Blog
 tags:
@@ -14,6 +14,7 @@ Though our idea did not majorly change, we decided that a more personal element 
 
 
 ![](/assets/images/sketcha.jpg)
+
 ![](/assets/images/sketchb.jpg)
 
 ## Changes: 
