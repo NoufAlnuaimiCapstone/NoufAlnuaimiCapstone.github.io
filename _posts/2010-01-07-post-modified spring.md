@@ -15,9 +15,9 @@ tags:
 Though our idea did not majorly change, we decided that a more personal element would aid in making it a more engaging project and so we decided to focus on the audio aspect and instead of having just music, we will have narrated stories from Emirati girls and their experiences growing up.
 
 
-![](/assets/images/sketcha.jpg)
+![](/assets/images/sketcha.jpeg)
 
-![](/assets/images/sketchb.jpg)
+![](/assets/images/sketchb.jpeg)
 
 ## Changes: 
 
