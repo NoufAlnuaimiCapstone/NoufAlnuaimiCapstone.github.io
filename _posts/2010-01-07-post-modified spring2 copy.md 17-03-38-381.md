@@ -10,7 +10,7 @@ tags:
 
 ## Spring Week 4: Installation Space & User Testing Plan 1
 
-## Installation Space:
+## Installation Space: 
 
 Though our idea did not majorly change, we decided that a more personal element would aid in making it a more engaging project and so we decided to focus on the audio aspect and instead of having just music, we will have narrated stories from Emirati girls and their experiences growing up.
 
