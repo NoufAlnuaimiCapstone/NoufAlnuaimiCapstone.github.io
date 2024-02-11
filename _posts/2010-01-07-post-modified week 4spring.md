@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-## Spring Week 4: Installation Space & User Testing Plan1
+## Spring Week 4: Installation Space & User Testing Plan 1
 
 ## Installation Space:
 
